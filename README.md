@@ -1,4 +1,4 @@
-# Shop in Svelte  & Sveltekit with Tailwin CSS
+# Shop in Svelte  & Sveltekit with Tailwin CSS (No Payment System)
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
