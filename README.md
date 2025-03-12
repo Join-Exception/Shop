@@ -1,4 +1,4 @@
-# sv
+# Shop in Svelte  & Sveltekit with Tailwin CSS
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
